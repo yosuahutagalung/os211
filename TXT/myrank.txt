@@ -1,4 +1,7 @@
 # Top 10 rank
 ZCZC W01 advistasyam
-ZCZC W01 ageng-anugerah
+ZCZC W01 ageng-anugrah
 ZCZC W01 adamsyauqi
+ZCZC W02 adamyrayeuk
+ZCZC W02 advistasyam
+ZCZC W02 ageng-anugrah
