@@ -35,8 +35,8 @@ for II in W?? ; do
 done
 popd
 
-rm -f $HOME/RESULT/fakeDODOL
-for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+rm -f $HOME/RESULT/W03
+for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/W03 ; do
    echo "Check and move $II..."
    [ -f $II ] && mv -f $II .
 done
