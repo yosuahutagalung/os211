@@ -1,0 +1,34 @@
+=============== PETUNJUK KUIS =============== 
+
+Contoh format perintah menjawab di bot Helper OS(BUKAN JAWABAN SEBENARNYA!!!):
+!a ZCZC W03 Q10 Jolan Tru!
+
+Peraturan:
+- Maksimal 1 soal 1 jawaban. Jika menjawab soal yang sama 2x atau lebih maka kamu langsung di diskualifikasi.
+- Kesalahan Format tidak akan ditolerir. Langsung 0 untuk soal tersebut.
+- Khusus nomor 5, pastikan TOKEN yang dimasukkan benar. Cek sendiri terlebih dahulu sebelum mengirim. 
+  Jika Verified, berarti sudah aman.
+
+=============== PETUNJUK KUIS =============== 
+
+==================== SOAL =================== 
+
+Nomor 1. [True/False] Relative block number digunakan oleh operating system untuk menentukan di mana
+file seharusnya ditempatkan. Hal itu disebut sebagai allocation problem.
+
+Nomor 2. [True/False] Untuk meningkatkan efisiensi I/O, I/O transfer antara memory dan storage 
+dilakukan pada suatu unit of sectors.
+
+Nomor 3. [Exact Text] Pengimplementasian file system terdiri dari tiga layer utama. Layer kedua disebut sebagai? 
+
+Nomor 4. [Exact Text] Perintah yang digunakan untuk melakukan unmount pada FUSE Filesystem, 
+jika nama mounted directorynya bernama "mountdir" adalah?(Hint: running.html)
+
+Nomor 5. [Exact Text] Apa Output dari chktoken <makna nomor 6>?. Jika anda tidak mampu memecahkan teka-teki
+nomor 6, maka jawablah dengan output chktoken W03Q1N. JANGAN SAMPAI SALAH INPUT!
+
+Nomor 6. BONUS: Apa makna dari tulisan berikut? (Hint: hexdump)
+544f4b454e2049533a2057303351314e444953434f52440a
+
+
+==================== SOAL =================== 
