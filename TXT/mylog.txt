@@ -34,3 +34,4 @@ ZCZC W03 20 L13 Assignment #3
 ZCZC W03 95 L13 Assignment #3
 ZCZC W04 100 L02 ZOOM related
 ZCZC W04 30 L14 Assignment #4
+ZCZC W04 20 L06 Reading References/Book/Documents
