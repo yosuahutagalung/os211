@@ -41,3 +41,6 @@ ZCZC W04 64 L14 Assignment #4
 ZCZC W05 100 L02 ZOOM related
 ZCZC W05 56 L15 Assignment #5
 ZCZC W05 20 L15 Assignment #5
+ZCZC W05 59 L05 GSGS related
+ZCZC W05 10 L27 Pets: feeding, playing, etc
+ZCZC W05 43 L15 Assignment #5 
