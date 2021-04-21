@@ -46,3 +46,6 @@ ZCZC W05 10 L27 Pets: feeding, playing, etc
 ZCZC W05 43 L15 Assignment #5 
 ZCZC W06 100 L02 ZOOM related
 ZCZC W06 30 L01 SCELE related (Pop quiz)
+ZCZC W06 30 L01 SCELE related (Pop quiz)
+ZCZC W06 30 L16 Assignment #6
+ZCZC W06 20 L07 Demo related
