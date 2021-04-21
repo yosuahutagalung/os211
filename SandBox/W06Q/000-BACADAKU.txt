@@ -1,0 +1,21 @@
+DEADLINE: Hari ini jam 08:00
+
+1) W06 Q02
+   Selamat, jika anda dapat membaca berkas ini!
+   Harap cepat-cepat mengirim "SUKSES" (contoh user cbkadal) ke:
+
+Email address: operatingsystems@vlsm.org
+Email Subject: OS211QUIZ
+Email Format: ZCZC W06 Q02 cbkadal SUKSES
+
+2) W06 Q03
+   Harap menyalin (scp) berkas os211.vlsm.org:///home/AASHARE/W06/MYTOKEN.bin
+   Berkas "MYTOKEN.bin" harus berada dalam directory ini!
+   Lakukan kompilasi dengan menjalankan "make".
+   Jalankan program "myW06Q03".
+   Kirimkan hasilnya (contoh user cbkadal) ke:
+
+Email address: operatingsystems@vlsm.org
+Email Subject: OS211QUIZ
+Email Format: ZCZC W06 Q03 (hasilnya)
+
