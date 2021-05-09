@@ -12,3 +12,6 @@ This is Yosua Hutagalung's Operating System course website.
 5. [W05](https://yosuahutagalung.github.io/os211/W05)
 6. [W06](https://yosuahutagalung.github.io/os211/W06)
 7. [W07](https://yosuahutagalung.github.io/os211/W07)
+8. [W08](https://yosuahutagalung.github.io/os211/W08)
+9. [W09](https://yosuahutagalung.github.io/os211/W09)
+10. [W10](https://yosuahutagalung.github.io/os211/W10)
