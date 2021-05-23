@@ -62,3 +62,9 @@ ZCZC W08 100 L02 Zoom related
 ZCZC W08 30 SCELE related (Pop quiz)
 ZCZC W08 110 L18 Assignment #8
 ZCZC W08 66 L18 Assignment #8
+ZCZC W08 74 L18 Assignment #8
+ZCZC W09 100 L02 Zoom related
+ZCZC W09 95 L19 Assignment #9
+ZCZC W09 392 L19 Assignment #9
+ZCZC W09 261 L19 Assignment #9
+ZCZC W09 351 L19 Assignment #9
